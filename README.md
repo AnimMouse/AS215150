@@ -17,20 +17,24 @@ Welcome to Autonomous System Number 215150!
 
 ## IPv6 Prefixes
 * [2a0f:85c1:3b2::/48](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=2a0f:85c1:3b2::%2F48&type=inet6num)
-* [2a06:9f81:3300::/40](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=2a06:9f81:3300::%2F40&type=inet6num)
-   * [2a06:9f81:3344::/48](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=2a06:9f81:3344::%2F48&type=inet6num)
 
 ## Internet Routing Registry (IRR)
 * [2a0f:85c1:3b2::/48](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=2a0f:85c1:3b2::%2F48AS215150&type=route6)
-* [2a06:9f81:3300::/40](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=2a06:9f81:3300::%2F40AS215150&type=route6)
-   * [2a06:9f81:3344::/48](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=2a06:9f81:3344::%2F48AS215150&type=route6)
 
 ## Reverse DNS (rDNS)
 * [2a0f:85c1:3b2::/48](https://apps.db.ripe.net/db-web-ui/lookup?source=RIPE&key=2.b.3.0.1.c.5.8.f.0.a.2.ip6.arpa&type=domain)
 
+## Internet Exchange Point (IXP)
+* [FogIXP (2001:7f8:ca:1::21:5150:1)](https://manager.fogixp.org/customer/detail/431)
+
 ## Peering Policy
-Just don't announce stupid prefixes.
+* Open peering policy. Email us at NOC if you want to peer.
+* No pointing of static routes to us.
+* No pointing of default routes to us.
+* No announcement of bogon ASNs.
+* No announcement of bogon IP addresses.
+* Must have up-to-date NOC contact email.
 
 ## Contact us
-* Network Operations Center: noc@215150.xyz
-* Abuse Department: abuse-asn@215150.xyz
+* Network Operations Center: [noc@215150.xyz](mailto:noc@215150.xyz)
+* Abuse Department: [abuse-asn@215150.xyz](mailto:abuse-asn@215150.xyz)
