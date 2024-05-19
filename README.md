@@ -12,6 +12,8 @@ Welcome to Autonomous System Number 215150!
    * [AS-SET](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=AS215150:AS-MAURIN&type=as-set)
 * [Geofeed](https://as.215150.xyz/geofeed.csv)
 
+Wanted to run your own ASN? Check out [My ASN Journey](https://www.animmouse.com/p/my-asn-journey/) for the tutorial!
+
 ## Route Propagation
 ![HE BGP Graph v6](https://bgp.he.net/graphs/as215150-ipv6.svg)
 
@@ -28,11 +30,14 @@ Welcome to Autonomous System Number 215150!
 * [FogIXP (2001:7f8:ca:1::21:5150:1)](https://manager.fogixp.org/customer/detail/431)
 
 ## Peering Policy
-* Open peering policy. Email us at NOC if you want to peer.
+* Open peering policy. Email us at NOC if you want to peer with us.
 * No pointing of static routes to us.
 * No pointing of default routes to us.
 * No announcement of bogon ASNs.
 * No announcement of bogon IP addresses.
+* Must have up-to-date IRR objects.
+* Must have up-to-date RPKI ROAs.
+* Must have up-to-date PeeringDB page.
 * Must have up-to-date NOC contact email.
 
 ## Contact us
