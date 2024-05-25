@@ -29,6 +29,9 @@ Wanted to run your own ASN? Check out [My ASN Journey](https://www.animmouse.com
 ## Internet Exchange Point (IXP)
 * [FogIXP (2001:7f8:ca:1::21:5150:1)](https://manager.fogixp.org/customer/detail/431)
 
+## Public services
+* IPv6 ROAs only RTR server: `rtr-v6.215150.xyz:3323`
+
 ## Peering Policy
 * Open peering policy. Email us at NOC if you want to peer with us.
 * No pointing of static routes to us.
