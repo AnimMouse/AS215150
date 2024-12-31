@@ -22,12 +22,14 @@ Wanted to run your own ASN? Check out [My ASN Journey](https://www.animmouse.com
 ## IPv6 Prefixes
 * [2a0a:6044:acc0::/44](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=2a0a:6044:acc0::%2F44&type=inet6num)
    * [2a0a:6044:acc1::/48](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=2a0a:6044:acc1::%2F48&type=inet6num)
+   * [2a0a:6044:acc2::/48](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=2a0a:6044:acc2::%2F48&type=inet6num)
    * [2a0a:6044:acc4::/48](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=2a0a:6044:acc4::%2F48&type=inet6num)
 * [2a0f:85c1:3b2::/48](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=2a0f:85c1:3b2::%2F48&type=inet6num)
 
 ## Internet Routing Registry (IRR)
 * [2a0a:6044:acc0::/44](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=2a0a:6044:acc0::%2F44AS215150&type=route6)
    * [2a0a:6044:acc1::/48](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=2a0a:6044:acc1::%2F48AS215150&type=route6)
+   * [2a0a:6044:acc2::/48](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=2a0a:6044:acc2::%2F48AS215150&type=route6)
    * [2a0a:6044:acc4::/48](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=2a0a:6044:acc4::%2F48AS215150&type=route6)
 * [2a0f:85c1:3b2::/48](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=2a0f:85c1:3b2::%2F48AS215150&type=route6)
 
@@ -41,6 +43,8 @@ Wanted to run your own ASN? Check out [My ASN Journey](https://www.animmouse.com
 ## Public services
 * IPv6 ROAs only RTR server: `rtr-v6.215150.xyz:3323`
 * IPv6 ROAs only RTRTR JSON server: [`https://rpki.215150.xyz/rpki-v6.json`](https://rpki.215150.xyz/rpki-v6.json)
+* IPv6 ROAs only RTR server (EU): `rtr-v6-eu.215150.xyz:3323`
+* IPv6 ROAs only RTRTR JSON server (EU): [`https://rpki-eu.215150.xyz/rpki-v6.json`](https://rpki-eu.215150.xyz/rpki-v6.json)
 
 ## Peering Policy
 * Open peering policy. Email us at NOC if you want to peer with us.
