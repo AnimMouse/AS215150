@@ -44,7 +44,6 @@ Wanted to run your own ASN? Check out [My ASN Journey](https://www.animmouse.com
 * IPv6 ROAs only RTR server: `rtr-v6.215150.xyz:3323`
 * IPv6 ROAs only RTRTR JSON server: [`https://rpki.215150.xyz/rpki-v6.json`](https://rpki.215150.xyz/rpki-v6.json)
 * IPv6 ROAs only RTR server (EU): `rtr-v6-eu.215150.xyz:3323`
-* IPv6 ROAs only RTRTR JSON server (EU): [`https://rpki-eu.215150.xyz/rpki-v6.json`](https://rpki-eu.215150.xyz/rpki-v6.json)
 
 ## Peering Policy
 * Open peering policy. Email us at NOC if you want to peer with us.
