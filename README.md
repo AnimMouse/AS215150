@@ -24,17 +24,11 @@ Wanted to run your own ASN? Check out [My ASN Journey](https://www.animmouse.com
    * [2a0a:6044:acc1::/48](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=2a0a:6044:acc1::%2F48&type=inet6num)
    * [2a0a:6044:acc2::/48](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=2a0a:6044:acc2::%2F48&type=inet6num)
    * [2a0a:6044:acc4::/48](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=2a0a:6044:acc4::%2F48&type=inet6num)
-* [2a0f:85c1:3b2::/48](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=2a0f:85c1:3b2::%2F48&type=inet6num)
 
 ## Internet Routing Registry (IRR)
 * [2a0a:6044:acc0::/44](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=2a0a:6044:acc0::%2F44AS215150&type=route6)
    * [2a0a:6044:acc1::/48](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=2a0a:6044:acc1::%2F48AS215150&type=route6)
    * [2a0a:6044:acc2::/48](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=2a0a:6044:acc2::%2F48AS215150&type=route6)
-   * [2a0a:6044:acc4::/48](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=2a0a:6044:acc4::%2F48AS215150&type=route6)
-* [2a0f:85c1:3b2::/48](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=2a0f:85c1:3b2::%2F48AS215150&type=route6)
-
-## Reverse DNS (rDNS)
-* [2a0f:85c1:3b2::/48](https://apps.db.ripe.net/db-web-ui/lookup?source=RIPE&key=2.b.3.0.1.c.5.8.f.0.a.2.ip6.arpa&type=domain)
 
 ## Internet Exchange Point (IXP)
 * [ONIX (2001:504:125:e1::aafc)](https://ixpm.onix.cx/customer/detail/242)
