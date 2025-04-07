@@ -31,13 +31,11 @@ Wanted to run your own ASN? Check out [My ASN Journey](https://www.animmouse.com
    * [2a0a:6044:acc2::/48](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=2a0a:6044:acc2::%2F48AS215150&type=route6)
 
 ## Internet Exchange Point (IXP)
-* [ONIX (2001:504:125:e1::aafc)](https://ixpm.onix.cx/customer/detail/242)
 * [FogIXP (2001:7f8:ca:1::21:5150:1)](https://manager.fogixp.org/customer/detail/431)
 
 ## Public services
 * IPv6 ROAs only RTR server: `rtr-v6.215150.xyz:3323`
 * IPv6 ROAs only RTRTR JSON server: [`https://rpki.215150.xyz/rpki-v6.json`](https://rpki.215150.xyz/rpki-v6.json)
-* IPv6 ROAs only RTR server (EU): `rtr-v6-eu.215150.xyz:3323`
 
 ## Peering Policy
 * Open peering policy. Email us at NOC if you want to peer with us.
