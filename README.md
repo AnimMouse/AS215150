@@ -30,7 +30,7 @@ Wanted to run your own ASN? Check out [My ASN Journey](https://www.animmouse.com
 * [2a0a:6044:acc0::/44](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=2a0a:6044:acc0::%2F44AS215150&type=route6)
    * [2a0a:6044:acc1::/48](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=2a0a:6044:acc1::%2F48AS215150&type=route6)
    * [2a0a:6044:acc2::/48](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=2a0a:6044:acc2::%2F48AS215150&type=route6)
-   * [2a0a:6044:acc4::/48](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=2a0a:6044:acc4::%2F48AS31898&type=route6)
+   * [2a0a:6044:acc4::/48](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=2a0a:6044:acc4::%2F48AS215150&type=route6)
 
 ## Internet Exchange Point (IXP)
 * [FogIXP (2001:7f8:ca:1::21:5150:1)](https://manager.fogixp.org/customer/detail/431)
